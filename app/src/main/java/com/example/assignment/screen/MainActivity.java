@@ -1,4 +1,4 @@
-package com.example.assignment;
+package com.example.assignment.screen;
 
 import android.content.Intent;
 import android.os.Bundle;
@@ -6,6 +6,7 @@ import android.os.Bundle;
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.databinding.DataBindingUtil;
 
+import com.example.assignment.R;
 import com.example.assignment.databinding.ActivityMainBinding;
 
 public class MainActivity extends AppCompatActivity {
